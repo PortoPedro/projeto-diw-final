@@ -1,0 +1,25 @@
+/* Elementos estruturais */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+#iframegoogle{
+padding: 35px;
+}
+
+#carouselExample{
+padding: 35px;
+height: 50%
+}
+
+@media (min-width: 768px) {
+    #telamaior {
+        display: block;
+    }
+}
+ .textdec{
+    text-decoration: none;
+ }
